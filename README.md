@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm junior student at VNUHCM - University of Science</h1>
-<h3 align="center">A passionate cybersecurity learner from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm a last year student at VNUHCM - University of Science</h1>
+<h3 align="center">A passionate Multimodal learner from Vietnam</h3>
 
-- 🌱 I’m currently learning **Comptia Security+ and NLP field**
+- 🌱 I’m currently working in AI VIET NAM as a support assistant.
 
 - 📫 How to reach me **nguyenphucthinh106@gmail.com**
 
